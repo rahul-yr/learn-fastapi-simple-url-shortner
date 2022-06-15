@@ -1,5 +1,5 @@
 # learn-fastapi-simple-url-shortner
-This is a simple url shortner application developed in Go.
+This is a simple url shortener application developed in Go.
 
 
 ## Useful Commands
