@@ -10,6 +10,7 @@ This is a simple url shortener application developed in Go.
 # FastAPI installation
     pip install fastapi
     pip install "uvicorn[standard]"
+    pip install pyclean
 
 # command to run the application in local
     uvicorn main:app --reload
